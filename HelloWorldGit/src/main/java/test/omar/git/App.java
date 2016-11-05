@@ -10,4 +10,10 @@ public class App
     {
         System.out.println( "Hello World!" );
     }
+    
+    public static void display()
+    {
+    	System.out.println("Its awesome wih Git . Thanks git hub");
+    }
 }
+
