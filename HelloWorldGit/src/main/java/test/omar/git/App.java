@@ -32,5 +32,9 @@ public class App
     {
     	System.out.println("Its awesome wih Git . Thanks git hub");
     }
+    public static void display2()
+    {
+    	System.out.println("Its awesome wih Git . Thanks git hub");
+    }
 }
 
