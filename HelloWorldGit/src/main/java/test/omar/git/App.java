@@ -17,4 +17,10 @@ public class App
         }
         System.out.println("SUM is : " + sum);
     }
+    
+    public static void display()
+    {
+    	System.out.println("Its awesome wih Git . Thanks git hub");
+    }
 }
+
