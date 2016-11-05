@@ -53,6 +53,11 @@ public class App
     	System.out.println("Its awesome wih Git . Thanks git hub");
     }
     
+    public static void display8()
+    {
+    	System.out.println("this is 8 guys. enjoy git");
+    }
+    
     
 }
 
