@@ -4,7 +4,7 @@ package test.omar.git;
  * Hello world!
  *
  */
-public class App 
+public class App2 
 {
     public static void main( String[] args )
     {
@@ -42,17 +42,5 @@ public class App
     {
     	System.out.println("Its awesome wih Git . Thanks git hub");
     }
-
-    public static void display6()
-    {
-    	System.out.println("Its awesome wih Git . Thanks git hub");
-    }
-    
-    public static void display7()
-    {
-    	System.out.println("Its awesome wih Git . Thanks git hub");
-    }
-    
-    
 }
 
