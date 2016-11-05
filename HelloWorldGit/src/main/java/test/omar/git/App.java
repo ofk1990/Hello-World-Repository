@@ -55,7 +55,10 @@ public class App
     
     public static void display8()
     {
-    	System.out.println("this is 8 guys. enjoy git");
+    	int x[] = {1,2,3,4,5,6,7};
+    	for (int i : x) {
+			System.out.println(x);
+		}
     }
     
     
